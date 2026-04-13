@@ -50,6 +50,18 @@ INSERT INTO usuarios (nombre, email, password, rol) VALUES
 ('Pablo Cordero', 'pcorderov@uvirtual.ac.cr', '1234', 'PROFESOR'),
 ('Jhonnson Valerio', 'jhonnson6.12@gmail.com', '1234', 'ESTUDIANTE');
 
+INSERT INTO usuarios (nombre, email, password, rol) VALUES
+('Oscar Solano', 'oscarsolano@gmail.com', '1234', 'ESTUDIANTE');
+
+INSERT INTO usuarios (nombre, email, password, rol) VALUES
+('Eder Solano', 'edersolano@gmail.com', '1234', 'ESTUDIANTE');
+
+INSERT INTO usuarios (nombre, email, password, rol) VALUES
+('Yojan Santana', 'yojansantana@gmail.com', '1234', 'ESTUDIANTE');
+
+INSERT INTO usuarios (nombre, email, password, rol) VALUES
+('Kendall Vasquez', 'kendallvasquez@gmail.com', '1234', 'ESTUDIANTE');
+
 -- 7. Insertar cursos
 INSERT INTO cursos (nombre_curso, descripcion, id_profesor) VALUES
 ('Java SE Avanzado', 'Dominio de POO y colecciones.', 1),
