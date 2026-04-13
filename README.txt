@@ -80,13 +80,13 @@ PROFESOR: pcorderov@uvirtual.ac.cr / 1234
 
 ESTUDIANTE: jhonnson6.12@gmail.com / 1234
 
-ESTUDIANTE:  / 1234
+ESTUDIANTE: oscarsolano@gmail.com / 1234
 
-ESTUDIANTE:  / 1234
+ESTUDIANTE: edersolano@gmail.com / 1234
 
-ESTUDIANTE:  / 1234
+ESTUDIANTE: yojansantana@gmail.com / 1234
 
-ESTUDIANTE:  / 1234
+ESTUDIANTE: kendallvasquez@gmail.com / 1234
 
 ------------------------------------------------------------------------
 ¿Dónde obtener ayuda?
