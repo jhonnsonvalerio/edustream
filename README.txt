@@ -62,7 +62,7 @@ Luego se va a editar la conexion para no tener errores de conectividad con la ba
 
 Editar Conexion.java:
 
-URL: jdbc:mysql://localhost:3306/edustream_db
+URL: jdbc:mysql://localhost:3306/edustream_db?useSSL=false&serverTimezone=UTC
 Usuario: root
 Contraseña: (tu contraseña)
 
